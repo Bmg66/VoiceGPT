@@ -49,7 +49,9 @@ In order to use this chatbot, you will need the following:
 - If the chatbot is not transcribing voice input correctly, make sure you have a good quality microphone and there is no background noise.
 - If there are issues with the API keys, make sure you have entered the correct keys in your Python script (e.g., "VoiceGPT.py").
 - If there are any errors during the execution of the program, check the error messages displayed and refer to the API documentation for troubleshooting.
-##Sometimes you will need to restart the chatbot for it to work properly. this is a known bug and i am working on it.
+
+##
+Sometimes you will need to restart the chatbot for it to work properly. this is a known bug and i am working on it.
 
 ## Credits
 
