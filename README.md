@@ -38,7 +38,7 @@ In order to use this chatbot, you will need the following:
 ## How to Use
 
 1. Start the chatbot by running your Python script (e.g., "VoiceGPT.py") using Python 3.x.
-2. Say "desired voice" to trigger the chatbot and start recording your question.
+2. Say "desired command that you choose" to trigger the chatbot and start recording your question.
 3. After recording your question, the chatbot will transcribe your voice input to text and generate an AI-generated response.
 4. The response will be converted to speech and played back to you.
 5. You can ask multiple questions by repeating the process.
@@ -49,6 +49,7 @@ In order to use this chatbot, you will need the following:
 - If the chatbot is not transcribing voice input correctly, make sure you have a good quality microphone and there is no background noise.
 - If there are issues with the API keys, make sure you have entered the correct keys in your Python script (e.g., "VoiceGPT.py").
 - If there are any errors during the execution of the program, check the error messages displayed and refer to the API documentation for troubleshooting.
+- ##Sometimes you will need to restart the chatbot for it to work properly. this is a known bug and i am working on it.
 
 ## Credits
 
