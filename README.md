@@ -7,3 +7,7 @@ The program starts by initializing the necessary APIs and setting up the require
 The main part of the program is the main() function, which runs an infinite loop and listens for the user to say "siri" to start recording their question. Once the user says "siri", the program records the user's voice input, transcribes it to text, generates a response using GPT-3 API, converts the response to speech using Eleven Labs API, plays the generated audio to the user, and then deletes the temporary audio files.
 
 If any errors occur during the process, such as failure in transcribing audio or playing audio, appropriate error messages are displayed.
+
+
+https://user-images.githubusercontent.com/87999692/232620446-ff53f605-6355-455e-bc00-a309954cf723.mp4
+
