@@ -1,4 +1,4 @@
-# Voice-Based AI Chatbot
+# VoiceGPT 
 
 This is a voice-based AI chatbot that uses Google Speech Recognition, OpenAI GPT-3 API, and Eleven Labs API to transcribe user's voice input, generate an AI-generated response, convert the response to speech, and play it back to the user.
 
