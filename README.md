@@ -9,5 +9,9 @@ The main part of the program is the main() function, which runs an infinite loop
 If any errors occur during the process, such as failure in transcribing audio or playing audio, appropriate error messages are displayed.
 
 
-https://user-images.githubusercontent.com/87999692/232620446-ff53f605-6355-455e-bc00-a309954cf723.mp4
+
+
+
+
+https://user-images.githubusercontent.com/87999692/232620534-dda72918-8632-4bf9-bd04-565551134ddf.mp4
 
